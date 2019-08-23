@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+  <meta charset="UTF-8">
+  <title>findThePrecious</title>
+</head>
+
+<body>
+  <header>
+    <h1>findThePrecious</h1>
+      <p>Dangerous fellowship try to destroy the ring<br/>Orcs, Goblins, Balrogs, protect your master.</p>
+    <nav>
+      <ul>
+        <li><a href="#conteneur_fellows">Fellows</a></li>
+        <li><a href="#conteneur_the_ring">The Ring</a></li>
+        <li><a href="#conteneur_reward">Get my reward</a></li>
+        <li><a href="#conteneur_best_hunters">Best hunters</a></li>
+        <li><a href="#conteneur_join_army">Join the army</a></li>
+        <li><a href="#conteneur_contact_us">Contact us</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <section id="conteneur_fellows">
+    <h2>Fellows wanted dead (or alive if you want to eat them later)</h2>
+    <ul>
+      <li>Most Wanted</li>
+      <li>Most Dangerous</li>
+      <li>Already captured</li>
+    </ul>
+
+    <aside>
+      <p>Reward 1000 gold coins</p>
+      <a href="https://via.placeholder.com/140"><img src="https://via.placeholder.com/140" alt="image_wizard"></a>
+      <p>The Wizard</p>
+      <p>Small description</p>
+    </aside>
+    
+    <aside>
+      <p>DEAD</p>
+      <a href="https://via.placeholder.com"><img src="https://via.placeholder.com/140" alt="image_hobbit"></a>
+      <p>Hobbit #3</p>
+      <p>Small description</p>
+    </aside>
+    
+    <aside>
+      <p>Reward 250 gold coins</p>
+      <a href="https://via.placeholder.com/"><img src="https://via.placeholder.com/140" alt="image_yummy"></a>
+      <p>Yummy Dwarf</p>
+      <p>Small description</p>
+    </aside>
+  </section>
+
+  <section id="conteneur_reward">
+    <h2>I have captured one of them, how to get my reward ?</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. <br/>
+      Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.</p>
+    <a href="https://via.placeholder.com/"><img src="https://via.placeholder.com/140" alt="reward"></a>
+  </section>
+  <a href="#contact">Contact us</a>
+
+  <section id="conteneur_best_hunters">
+    <h2> Best Hunters </h2>
+    <a href="https://via.placeholder.com/"><img src="https://via.placeholder.com/70" alt="hunter"></a>
+    <p> ElvesKiller22
+      <p>2 captures - <a href="profile">Profile</a> <br/>
+        <a href="like">Like </a></p>
+    
+      <a href="https://via.placeholder.com/"><img src="https://via.placeholder.com/70" alt="hunter"></a>
+    <p>Goblin45</p>
+    <p>1 capture - <a href="profile">Profile</a> <br/>
+        <a href="like">Like </a></p>
+  </section>
+
+  <section id="conteneur_the_ring">
+    <h2>About the ring</h2>
+    <aside>
+      <h3>Ring Capabilities</h3>
+    <p>What can our master Sauron do with the ring ?</p>
+    <table>
+      <tr>
+        <th>Feature</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td>Main</td>
+        <td>One ring to rules them all</td>
+      </tr>
+      <tr>
+        <td>Invisibility</td>
+        <td>You can't see me</td>
+      </tr>
+      <tr>
+        <td>Power</td>
+        <td>Destroy the world</td>
+      </tr>
+    </table>
+    </aside>
+    <aside>
+    <h3>Why the ring is awesome ?</h3>
+    <p>My preciooooooussssss ! Hrk Hrk, we want our preecioooouuusssss !</p>
+    <a href="https://via.placeholder.com/"><img src="https://via.placeholder.com/110" alt="ring"></a>
+    </aside>
+  </section>
+
+  <section id="conteneur_join_army">
+    <h2>Join Mordor Army, we need you !</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. <br/>
+      Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit. </p>
+    <a href="https://via.placeholder.com/"><img src="https://via.placeholder.com/140" alt="ring"></a>
+  </section>
+  <p>More info on <a href="https://www.SauronRulesThemAll.com">SauronRulesThemAll.com</a></p>
+
+  <section id="conteneur_contact_us">
+    <h3>Contact us</h3>
+      <form action="documentfictif.php">
+        <input type="email" value="@" /><br/>
+          <input value="&#127969" /><br/>
+            <select>
+              <option value="ihaveseenoneofthem">I have seen one of them</option>
+              <option value="choix1">Artick</option>
+              <option value="choix2">Saiyuki</option>
+              <option value="choix3">Wizkid</option>
+            </select><br/>
+            <textarea name="message" cols="15" rows="5">Your message</textarea><br/>
+              <input type="submit" value="Submit">
+      </form>
+  </section>
+  
+  <footer>
+    <div id="liste_footer"> 
+     <ul>
+      <li><a href="document_about.html">About us</a></li>
+      <li><a href="#conteneur_fellows">Fellows</a></li>
+      <li><a href="#conteneur_join_army">Join the army</a></li>
+      <li><a href="document_faq">FAQ</a></li>
+      <li><a href="conteneur_reward">Reward conditions</a></li>
+      <li><a href="/legalmentions">Legal mentions</a></li> 
+     </ul>
+    </div>
+    
+      <div id="follow_twitter">
+        
+      <a href="">Sauron4ever.com</a>
+      <p>Follow him also on Twitter</p>
+      </div>
+  </footer>
+
+</body>
+
+</html>
